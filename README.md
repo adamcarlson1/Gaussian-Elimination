@@ -1,6 +1,7 @@
 # Gaussian-Elimination
 This code automates the process of expressing the solution of a linear system, including when that system does not have a unique solution.
-Goals
+
+Goals:
 The goals of this first programming assignment are:
 1. To ensure you can convert the ideas of forward- and backward-phase elimination on a linear system.
 2. To ensure you know how pivoting works and how a pivot location is found.
